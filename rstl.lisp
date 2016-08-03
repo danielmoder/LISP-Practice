@@ -3,7 +3,7 @@
 
 ; Sample argument:
 ; (:program ((:binary (:binary (:@int "4" (1 0)) :/ (:@int "2" (1 2))) :+ (:binary (:@int "9" (1 4)) :/ (:@int "3" (1 6))))))
-;  `--> (Ruby S-expression for "4/2+9/3")
+; (Ruby S-expression for "4/2+9/3")
 
 
 ; Format operations appropriately for LISP
